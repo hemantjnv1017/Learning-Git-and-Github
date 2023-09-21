@@ -7,3 +7,5 @@ Calling
 Messaging
 
 Internet
+
+Calculator
